@@ -252,3 +252,35 @@
   securityQuestion:
     id: 10
     answer: "Used Ship Emporium" # https://monkeyisland.fandom.com/wiki/Stan_S._Stanman
+-
+  email: rstrublewski
+  username: rstrublewsi
+  password: 'kedar123!'
+  key: rstrublewski
+  role: 'customer'
+  address:
+    - fullName: 'Radosław Strublewski'
+      mobileNum: 1234567890
+      zipCode: '0662'
+      streetAddress: '0662 Koszykowa'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'Radosław Strublewski'
+      cardNum: 4716190207394444
+      expMonth: 1
+      expYear: 2090
+    - fullName: 'Radosław Strublewski'
+      cardNum: 4024007105648333
+      expMonth: 1
+      expYear: 2091 
+-
+  email: radstr
+  username: radstr
+  password: 'admin123'
+  key: radstr
+  role: 'admin'
+  securityQuestion:
+    id: 12
+    answer: "Nie pytaj mnie o to..."

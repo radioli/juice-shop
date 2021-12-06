@@ -154,7 +154,7 @@ module.exports.status = function status () {
       if (!username) {
         res.status(200).json({
           action: 'namequery',
-          body: 'I\'m sorry I didn\'t get your name. What shall I call you?'
+          body: 'I\'m sorry I didn\'t get your name. Pierdol sie?'
         })
         return
       }
